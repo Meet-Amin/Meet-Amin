@@ -77,7 +77,7 @@ I enjoy turning complex problems into clean, scalable AI solutions using modern 
 
 ## 📫 Connect With Me
 - **GitHub:** https://github.com/Meet-Amin    
-- **Portfolio:** meet-amin.base44.app
+- **Portfolio:** https://meet-amin.base44.app/
 
 ---
 
