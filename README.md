@@ -2,7 +2,7 @@
 
 🚀 **AI / ML Engineer | Generative AI | AI Agents | Automation | RAG Systems**
 
-I’m an AI-focused developer passionate about building **real-world, production-style AI systems** — from **multi-agent architectures** and **workflow automation** to **RAG-powered learning tools** and **customer support AI agents**.
+I’m an AI-focused developer passionate about building **real-world, production-style AI systems** from **multi-agent architectures** and **workflow automation** to **RAG-powered learning tools** and **customer support AI agents**.
 
 I enjoy turning complex problems into clean, scalable AI solutions using modern LLM frameworks and automation tools.
 
