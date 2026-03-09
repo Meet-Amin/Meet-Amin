@@ -1,84 +1,137 @@
-# 👋 Hi, I'm Meet Amin
+<h1 align="center">Hi, I'm Meet Amin 👋</h1>
 
-🚀 **AI / ML Engineer | Generative AI | AI Agents | Automation | RAG Systems**
+<p align="center">
+  <b>AI / ML Engineer</b> • <b>Generative AI</b> • <b>AI Agents</b> • <b>RAG Systems</b> • <b>Automation</b>
+</p>
 
-I’m an AI-focused developer passionate about building **real-world, production-style AI systems** from **multi-agent architectures** and **workflow automation** to **RAG-powered learning tools** and **customer support AI agents**.
-
-I enjoy turning complex problems into clean, scalable AI solutions using modern LLM frameworks and automation tools.
-
----
-
-## 🚀 Featured Projects
-
-### 🟦 Nike Customer Support AI Agent (n8n)
-- AI-powered customer support automation for returns, policies, and FAQs  
-- Built using **n8n** with structured workflows and conditional logic  
-- Designed for scalable, real-world e-commerce use cases  
-
-🔗 https://github.com/Meet-Amin/Nike-Customer-Support-AI-agent-n8n
+<p align="center">
+  I build real-world AI applications that combine LLMs, multi-agent orchestration, retrieval systems, and workflow automation.
+</p>
 
 ---
 
-### 🟪 StorySpark Studio
-- AI storytelling platform for creative content generation  
-- Supports dynamic prompts, character creation, and narrative expansion  
+## 🚀 About Me
 
-🔗 https://github.com/Meet-Amin/StorySpark-Studio
-
----
-
-### 🟩 A2A Multi-Agent Protocol
-- Agent-to-Agent (A2A) framework for coordinating multiple AI agents  
-- Async execution with shared context and clean role separation  
-
-🔗 https://github.com/Meet-Amin/a2a-multi-agent-protocol
+- 🎓 Master's student in **Information Technology**
+- 🤖 Focused on **Generative AI, AI Agents, RAG, and ML applications**
+- 🛠️ Building projects with **Python, FastAPI, Streamlit, LangChain, vector databases, and automation tools**
+- 🌱 Currently exploring **production-ready AI systems, agent workflows, and scalable AI app architecture**
+- 💡 I enjoy turning ideas into polished, practical products that solve real problems
 
 ---
 
-### 🟨 YouTube Study Bud
-- RAG-based AI assistant to chat with YouTube video content  
-- Uses embeddings + vector search for accurate responses  
+## 🔥 Featured Projects
 
-🔗 https://github.com/Meet-Amin/YouTube-Study-Bud
+### 1) SystemDesign-GPT
+AI-powered system design assistant that helps users explore architecture ideas, reason through tradeoffs, and interact through an app-based interface.
+
+**Tech:** Python, API integration, Streamlit, system design workflows
 
 ---
 
-## 🧠 Core Skills & Technologies
+### 2) PaperForge-AI
+AI-powered RAG research paper generator that ingests documents, builds a knowledge base, and produces structured, citation-aware academic content.
 
-**AI & ML**
+**Tech:** Python, RAG, document parsing, vector search, LLM pipelines
+
+---
+
+### 3) Water Intake Tracker
+AI hydration assistant that combines a Streamlit dashboard, FastAPI backend, and LLM-powered insights for logging intake, reminders, and habits.
+
+**Tech:** Python, FastAPI, Streamlit, LangChain, SQLite
+
+---
+
+### 4) StorySpark Studio
+Creative AI storytelling app that transforms images into narrated stories with genre control and audio output.
+
+**Tech:** Python, Gemini, gTTS, Streamlit
+
+---
+
+### 5) Nike Customer Support AI Agent
+AI-powered customer support workflow for e-commerce scenarios like returns, FAQs, and policy handling.
+
+**Tech:** n8n, Twilio, LLM workflows, automation logic
+
+---
+
+### 6) YouTube Study Bud
+Study assistant that converts YouTube content into notes and a chat-ready knowledge base for learning and revision.
+
+**Tech:** Python, Streamlit, LangChain, Gemini, Chroma
+
+---
+
+## 🧠 What I Work With
+
+### Languages
+- Python
+- JavaScript
+- SQL
+
+### AI / ML
+- Machine Learning
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- Multi-Agent Systems
 - Prompt Engineering
+- NLP
+- Multi-Agent Systems
 
-**Frameworks & Tools**
-- Python
-- LangChain
+### Frameworks & Tools
+- FastAPI
 - Streamlit
-- n8n (Workflow Automation)
-- Vector Databases
-- APIs & Webhooks
+- LangChain
+- Chroma / Vector Databases
+- n8n
+- REST APIs
+- Git & GitHub
 
-**Engineering Practices**
-- Scalable system design
-- Secure API key handling
-- Modular architecture
-- Real-world automation workflows
+### Concepts
+- AI Agent Design
+- Workflow Automation
+- Scalable App Architecture
+- Data Pipelines
+- System Design
+- Production-style AI Prototyping
 
 ---
 
-## 🎯 What I’m Focused On
-- Building **production-ready AI agents**
+## 📌 Current Focus
+
+- Building **production-style AI agents**
 - Designing **multi-agent orchestration systems**
-- Automating workflows with AI + no-code/low-code tools
-- Creating AI tools that solve real user problems
+- Creating **RAG-based knowledge tools**
+- Shipping **portfolio projects recruiters can actually explore**
+- Growing as an **AI Engineer / ML Engineer**
 
 ---
 
-## 📫 Connect With Me
-- **GitHub:** https://github.com/Meet-Amin    
-- **Portfolio:** https://meet-amin.base44.app/
+## 📈 GitHub Goals
+
+- Build useful AI products, not just demos
+- Write cleaner, more scalable code
+- Share polished open-source projects
+- Keep improving project architecture, documentation, and developer experience
 
 ---
 
-⭐ If you find my work interesting, feel free to star a repository or connect!
+## 🌐 Connect With Me
+
+- **GitHub:** [github.com/Meet-Amin](https://github.com/Meet-Amin)
+- **Portfolio:** [meet-amin.base44.app](https://meet-amin.base44.app)
+- **LinkedIn:** [Add your LinkedIn here]
+
+---
+
+## ⭐ Fun Fact
+
+I like building AI projects that feel practical, creative, and recruiter-friendly — the kind that are fun to demo and easy to understand.
+
+---
+
+<p align="center">
+  Thanks for visiting my profile 🚀<br>
+  If you like my work, consider starring a repo or connecting with me.
+</p>
