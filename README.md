@@ -41,7 +41,7 @@ Building intelligent systems that combine <b>LLMs, automation, and scalable arch
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,sql" />
+<img src="https://skillicons.dev/icons?i=python,R" />
 </p>
 
 ### AI / ML
@@ -55,7 +55,7 @@ Building intelligent systems that combine <b>LLMs, automation, and scalable arch
 ### Frameworks & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,streamlit,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=fastapi,github,docker,git,vscode" />
 </p>
 
 Additional Tools
