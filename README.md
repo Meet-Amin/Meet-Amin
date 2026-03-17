@@ -41,7 +41,7 @@ Building intelligent systems that combine <b>LLMs, automation, and scalable arch
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,R" />
+<img src="https://skillicons.dev/icons?i=python,R,MATLAB,JavaScript" />
 </p>
 
 ### AI / ML
