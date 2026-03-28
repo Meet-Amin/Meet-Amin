@@ -201,11 +201,10 @@ https://github.com/Meet-Amin
 https://github.com/Meet-Amin
 
 🌎 Portfolio  
-https://meet-amin.base44.app
+https://meet-amin-portfolio.netlify.app/
 
 🔗 LinkedIn  
-(Add your LinkedIn here)
-
+https://www.linkedin.com/in/meet-amin-j500/
 ---
 
 # ⭐ Fun Fact
